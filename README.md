@@ -18,7 +18,7 @@
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mateuscsq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.ifunny.co/images/37fac3a4142d1be6cbd0c701bd1cb565f6a20cc0aef4ccd6b5d708a87fae6f1f_1.webm">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545965461288779798/948255571944013945/hunter.jpg">
 
    
     
